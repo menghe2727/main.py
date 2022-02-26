@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
+<<<<<<< HEAD
 import numpy as np
 import pandas as pd
 import os
@@ -12,3 +13,15 @@ test_data=pd.read_csv("D:/kaggle/test.csv");
 print(train_data)
 print(test_data)
 
+=======
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+>>>>>>> ee6ed52 (main.py)
